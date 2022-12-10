@@ -8,6 +8,6 @@ public class WelcomeController {
 
   @GetMapping("/welcome")
   public String sayHello(){
-    return "Hakuna Matata with security";
+    return "Hakuna Matata with security and static credentials!!";
   }
 }
