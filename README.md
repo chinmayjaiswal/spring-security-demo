@@ -17,3 +17,7 @@ This is spring boot application to demonstrate spring-security usages
   * __DaoAuthenticationProvider__ : it is default AuthenticationProvider to perform authentication. 
   * __InMemoryUserDetailsManager__ : default manager used by spring framework for in-memory user details
 
+## Spring Security Internal Flow
+![Spring Security internal flow](https://raw.githubusercontent.com/chinmayjaiswal/spring-security-demo/main/images/spring_security_internal_flow.png)
+
+
