@@ -24,3 +24,4 @@ This is spring boot application to demonstrate spring-security usages
 ## Notes Section 2:
 * By default, Spring Security Framework protects all the paths present inside the web application. This behaviour is due to : __SpringBootWebSecurityConfiguration#defaultSecurityFilterChain(HttpSecurity http)__ method.
 * 
+
